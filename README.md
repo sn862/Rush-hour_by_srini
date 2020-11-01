@@ -5,7 +5,9 @@ the above code is for cs510 course artificial intelligence.
 solve rush hour game using code 
 
 using random path
+
 using BFS breadth first search
+
 and using A* search - incomplete
 
 input format 
