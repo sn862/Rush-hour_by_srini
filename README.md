@@ -13,8 +13,13 @@ and using A* search - incomplete
 input format 
 
  |  o aa|
+ 
  |  o   |
+ 
  |xxo   *
+ 
  |ppp  q|
+ 
  |     q|
+ 
  |     q|
