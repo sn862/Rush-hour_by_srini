@@ -10,6 +10,8 @@ using BFS breadth first search
 
 and using A* search - incomplete
 
+additional instructions attached in a file
+
 input format 
 
  |  o aa|
